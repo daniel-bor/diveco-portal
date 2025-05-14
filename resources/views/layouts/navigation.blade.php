@@ -30,18 +30,6 @@
                 </div>
             </a>
 
-            <a href="{{ route('profile.edit') }}"
-                class="block w-full px-4 py-2 {{ request()->routeIs('profile.edit') ? 'bg-gray-100 dark:bg-gray-700 text-indigo-600 dark:text-indigo-400 rounded-md' : 'text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100 rounded-md' }}">
-                <div class="flex items-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-3" fill="none" viewBox="0 0 24 24"
-                        stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                            d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
-                    </svg>
-                    <span>{{ __('Profile') }}</span>
-                </div>
-            </a>
-
             <a href="{{ route('reporte-bi') }}"
                 class="block w-full px-4 py-2 {{ request()->routeIs('reporte-bi') ? 'bg-gray-100 dark:bg-gray-700 text-indigo-600 dark:text-indigo-400 rounded-md' : 'text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100 rounded-md' }}">
                 <div class="flex items-center">
@@ -60,6 +48,17 @@
 
     <!-- Logout Section -->
     <div class="p-4 border-t border-gray-200 dark:border-gray-700">
+        <a href="{{ route('profile.edit') }}"
+            class="block w-full px-4 py-2 {{ request()->routeIs('profile.edit') ? 'bg-gray-100 dark:bg-gray-700 text-indigo-600 dark:text-indigo-400 rounded-md' : 'text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100 rounded-md' }}">
+            <div class="flex items-center">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-3" fill="none" viewBox="0 0 24 24"
+                    stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+                </svg>
+                <span>{{ __('Profile') }}</span>
+            </div>
+        </a>
         <form method="POST" action="{{ route('logout') }}">
             @csrf
             <button type="submit" onclick="event.preventDefault(); this.closest('form').submit();"
