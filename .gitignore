@@ -18,3 +18,4 @@ yarn-error.log
 /.idea
 /.vscode
 /instructions/*.md
+/csv-data/*.csv
