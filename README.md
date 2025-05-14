@@ -77,6 +77,14 @@ php artisan serve
 
 La aplicación estará disponible en `http://localhost:8000`
 
+### 7. Credenciales de prueba
+Puedes utilizar las siguientes credenciales para acceder al sistema:
+
+```
+Usuario: usuario@prueba.com
+Contraseña: 12345678
+```
+
 ## Rutas principales de la aplicación
 
 - **/** - Inicio

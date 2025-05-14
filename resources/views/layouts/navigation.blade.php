@@ -19,7 +19,7 @@
     <div class="p-4 flex-grow">
         <div class="space-y-1">
             <a href="{{ route('dashboard') }}"
-                class="block w-full px-4 py-2 {{ request()->routeIs('dashboard') ? 'bg-gray-100 dark:bg-gray-700 text-indigo-600 dark:text-indigo-400 rounded-md' : 'text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100 rounded-md' }}">
+                class="block w-full px-4 py-2 {{ request()->routeIs('dashboard') ? 'bg-gray-100 dark:bg-gray-700 text-sky-500 dark:text-sky-500 rounded-md' : 'text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100 rounded-md' }}">
                 <div class="flex items-center">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-3" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor">
@@ -31,7 +31,7 @@
             </a>
 
             <a href="{{ route('reporte-bi') }}"
-                class="block w-full px-4 py-2 {{ request()->routeIs('reporte-bi') ? 'bg-gray-100 dark:bg-gray-700 text-indigo-600 dark:text-indigo-400 rounded-md' : 'text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100 rounded-md' }}">
+                class="block w-full px-4 py-2 {{ request()->routeIs('reporte-bi') ? 'bg-gray-100 dark:bg-gray-700 text-sky-500 dark:text-sky-500 rounded-md' : 'text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100 rounded-md' }}">
                 <div class="flex items-center">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-3" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor">
@@ -49,7 +49,7 @@
     <!-- Logout Section -->
     <div class="p-4 border-t border-gray-200 dark:border-gray-700">
         <a href="{{ route('profile.edit') }}"
-            class="block w-full px-4 py-2 {{ request()->routeIs('profile.edit') ? 'bg-gray-100 dark:bg-gray-700 text-indigo-600 dark:text-indigo-400 rounded-md' : 'text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100 rounded-md' }}">
+            class="block w-full px-4 py-2 {{ request()->routeIs('profile.edit') ? 'bg-gray-100 dark:bg-gray-700 text-sky-500 dark:text-sky-500 rounded-md' : 'text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100 rounded-md' }}">
             <div class="flex items-center">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-3" fill="none" viewBox="0 0 24 24"
                     stroke="currentColor">
