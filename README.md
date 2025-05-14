@@ -29,9 +29,9 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-### 4. Compilar activos
+### 4. Compilar assets
 ```bash
-npm run dev
+npm run build
 ```
 
 ### 5. Crear la base de datos y ejecutar migraciones
@@ -69,6 +69,13 @@ DB_PASSWORD=
 ```bash
 php artisan migrate --seed
 ```
+
+### 6. Iniciar el servidor de desarrollo
+```bash
+php artisan serve
+```
+
+La aplicación estará disponible en `http://localhost:8000`
 
 ## Rutas principales de la aplicación
 
