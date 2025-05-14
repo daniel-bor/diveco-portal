@@ -1,0 +1,252 @@
+DATA Amazon Sales Report
+index,Order ID,Date,Status,Fulfilment,Sales Channel ,ship-service-level,Style,SKU,Category,Size,ASIN,Courier Status,Qty,currency,Amount,ship-city,ship-state,ship-postal-code,ship-country,promotion-ids,B2B,fulfilled-by,Unnamed: 22
+0,405-8078784-5731545,04-30-22,Cancelled,Merchant,Amazon.in,Standard,SET389,SET389-KR-NP-S,Set,S,B09KXVBD7Z,,0,INR,647.62,MUMBAI,MAHARASHTRA,400081.0,IN,,False,Easy Ship,
+1,171-9198151-1101146,04-30-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,JNE3781,JNE3781-KR-XXXL,kurta,3XL,B09K3WFS32,Shipped,1,INR,406.0,BENGALURU,KARNATAKA,560085.0,IN,"Amazon PLCC Free-Financing Universal Merchant AAT-WNKTBO3K27EJC,Amazon PLCC Free-Financing Universal Merchant AAT-QX3UCCJESKPA2,Amazon PLCC Free-Financing Universal Merchant AAT-5QQ7BIYYQEDN2,Amazon PLCC Free-Financing Universal Merchant AAT-DSJ2QRXXWXVMQ,Amazon PLCC Free-Financing Universal Merchant AAT-CXJHMC2YJUK76,Amazon PLCC Free-Financing Universal Merchant AAT-CC4FAVTYR4X7C,Amazon PLCC Free-Financing Universal Merchant AAT-XXRCW6NZEPZI4,Amazon PLCC Free-Financing Universal Merchant AAT-CXNSLNBROFDW4,Amazon PLCC Free-Financing Universal Merchant AAT-R7GXNZWISTRFA,Amazon PLCC Free-Financing Universal Merchant AAT-WSJLDN3X7KEMO,Amazon PLCC Free-Financing Universal Merchant AAT-VL6FGQVGQVXUS,Amazon PLCC Free-Financing Universal Merchant AAT-EOKPWFWYW7Y6I,Amazon PLCC Free-Financing Universal Merchant AAT-ZYL5UPUNW6T62,Amazon PLCC Free-Financing Universal Merchant AAT-XVPICCHRWDCAI,Amazon PLCC Free-Financing Universal Merchant AAT-ETXQ3XXWMRXBG,Amazon PLCC Free-Financing Universal Merchant AAT-7X3XCTYG64VBE,Amazon PLCC Free-Financing Universal Merchant AAT-7CHGD3WTS3MHM,Amazon PLCC Free-Financing Universal Merchant AAT-26ZDKNME27X42,Amazon PLCC Free-Financing Universal Merchant AAT-4ZF5KN6E4LJK4,Amazon PLCC Free-Financing Universal Merchant AAT-7RCXIKUAX7DDY,Amazon PLCC Free-Financing Universal Merchant AAT-BRSZZ45H6MHAO,Amazon PLCC Free-Financing Universal Merchant AAT-MKLXOOZWQL7GO,Amazon PLCC Free-Financing Universal Merchant AAT-CB7UNXEXGIJTC,Amazon PLCC Free-Financing Universal Merchant #MP-gzasho-1593152694811,Amazon PLCC Free-Financing Universal Merchant AAT-WLBA4GZ52EAH4",False,Easy Ship,
+2,404-0687676-7273146,04-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE3371,JNE3371-KR-XL,kurta,XL,B07WV4JV4D,Shipped,1,INR,329.0,NAVI MUMBAI,MAHARASHTRA,410210.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,True,,
+3,403-9615377-8133951,04-30-22,Cancelled,Merchant,Amazon.in,Standard,J0341,J0341-DR-L,Western Dress,L,B099NRCT7B,,0,INR,753.33,PUDUCHERRY,PUDUCHERRY,605008.0,IN,,False,Easy Ship,
+4,407-1069790-7240320,04-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE3671,JNE3671-TU-XXXL,Top,3XL,B098714BZP,Shipped,1,INR,574.0,CHENNAI,TAMIL NADU,600073.0,IN,,False,,
+5,404-1490984-4578765,04-30-22,Shipped,Amazon,Amazon.in,Expedited,SET264,SET264-KR-NP-XL,Set,XL,B08YN7XDSG,Shipped,1,INR,824.0,GHAZIABAD,UTTAR PRADESH,201102.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,False,,
+6,408-5748499-6859555,04-30-22,Shipped,Amazon,Amazon.in,Expedited,J0095,J0095-SET-L,Set,L,B08CMHNWBN,Shipped,1,INR,653.0,CHANDIGARH,CHANDIGARH,160036.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,False,,
+7,406-7807733-3785945,04-30-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,JNE3405,JNE3405-KR-S,kurta,S,B081WX4G4Q,Shipped,1,INR,399.0,HYDERABAD,TELANGANA,500032.0,IN,"Amazon PLCC Free-Financing Universal Merchant AAT-WNKTBO3K27EJC,Amazon PLCC Free-Financing Universal Merchant AAT-QX3UCCJESKPA2,Amazon PLCC Free-Financing Universal Merchant AAT-5QQ7BIYYQEDN2,Amazon PLCC Free-Financing Universal Merchant AAT-DSJ2QRXXWXVMQ,Amazon PLCC Free-Financing Universal Merchant AAT-CXJHMC2YJUK76,Amazon PLCC Free-Financing Universal Merchant AAT-CC4FAVTYR4X7C,Amazon PLCC Free-Financing Universal Merchant AAT-XXRCW6NZEPZI4,Amazon PLCC Free-Financing Universal Merchant AAT-EOKPWFWYW7Y6I,Amazon PLCC Free-Financing Universal Merchant AAT-ZYL5UPUNW6T62,Amazon PLCC Free-Financing Universal Merchant AAT-ETXQ3XXWMRXBG,Amazon PLCC Free-Financing Universal Merchant AAT-7X3XCTYG64VBE,Amazon PLCC Free-Financing Universal Merchant AAT-7CHGD3WTS3MHM,Amazon PLCC Free-Financing Universal Merchant AAT-26ZDKNME27X42,Amazon PLCC Free-Financing Universal Merchant AAT-4ZF5KN6E4LJK4,Amazon PLCC Free-Financing Universal Merchant AAT-7RCXIKUAX7DDY,Amazon PLCC Free-Financing Universal Merchant AAT-BRSZZ45H6MHAO,Amazon PLCC Free-Financing Universal Merchant AAT-MKLXOOZWQL7GO,Amazon PLCC Free-Financing Universal Merchant AAT-CB7UNXEXGIJTC,Amazon PLCC Free-Financing Universal Merchant #MP-gzasho-1593152694811,Amazon PLCC Free-Financing Universal Merchant AAT-WLBA4GZ52EAH4",False,Easy Ship,
+8,407-5443024-5233168,04-30-22,Cancelled,Amazon,Amazon.in,Expedited,SET200,SET200-KR-NP-A-XXXL,Set,3XL,B08L91ZZXN,Cancelled,0,,,HYDERABAD,TELANGANA,500008.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,False,,
+9,402-4393761-0311520,04-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE3461,JNE3461-KR-XXL,kurta,XXL,B08B3XF5MH,Shipped,1,INR,363.0,Chennai,TAMIL NADU,600041.0,IN,,False,,
+10,407-5633625-6970741,04-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE3160,JNE3160-KR-G-S,kurta,S,B07K3YQLF1,Shipped,1,INR,685.0,CHENNAI,TAMIL NADU,600073.0,IN,,False,,
+11,171-4638481-6326716,04-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE3500,JNE3500-KR-XS,kurta,XS,B098117DJ3,Shipped,1,INR,364.0,NOIDA,UTTAR PRADESH,201303.0,IN,,False,,
+12,405-5513694-8146768,04-30-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,JNE3405,JNE3405-KR-XS,kurta,XS,B081XCMYXJ,Shipped,1,INR,399.0,Amravati.,MAHARASHTRA,444606.0,IN,"Amazon PLCC Free-Financing Universal Merchant AAT-WNKTBO3K27EJC,Amazon PLCC Free-Financing Universal Merchant AAT-QX3UCCJESKPA2,Amazon PLCC Free-Financing Universal Merchant AAT-5QQ7BIYYQEDN2,Amazon PLCC Free-Financing Universal Merchant AAT-DSJ2QRXXWXVMQ,Amazon PLCC Free-Financing Universal Merchant AAT-CXJHMC2YJUK76,Amazon PLCC Free-Financing Universal Merchant AAT-CC4FAVTYR4X7C,Amazon PLCC Free-Financing Universal Merchant AAT-XXRCW6NZEPZI4,Amazon PLCC Free-Financing Universal Merchant AAT-EOKPWFWYW7Y6I,Amazon PLCC Free-Financing Universal Merchant AAT-ETXQ3XXWMRXBG,Amazon PLCC Free-Financing Universal Merchant AAT-7X3XCTYG64VBE,Amazon PLCC Free-Financing Universal Merchant AAT-7CHGD3WTS3MHM,Amazon PLCC Free-Financing Universal Merchant AAT-26ZDKNME27X42,Amazon PLCC Free-Financing Universal Merchant AAT-4ZF5KN6E4LJK4,Amazon PLCC Free-Financing Universal Merchant AAT-7RCXIKUAX7DDY,Amazon PLCC Free-Financing Universal Merchant AAT-BRSZZ45H6MHAO,Amazon PLCC Free-Financing Universal Merchant AAT-MKLXOOZWQL7GO,Amazon PLCC Free-Financing Universal Merchant AAT-CB7UNXEXGIJTC,Amazon PLCC Free-Financing Universal Merchant #MP-gzasho-1593152694811,Amazon PLCC Free-Financing Universal Merchant AAT-WLBA4GZ52EAH4",False,Easy Ship,
+13,408-7955685-3083534,04-30-22,Shipped,Amazon,Amazon.in,Expedited,SET182,SET182-KR-DH-XS,Set,XS,B085HS947T,Shipped,1,INR,657.0,MUMBAI,MAHARASHTRA,400053.0,IN,,False,,
+14,408-1298370-1920302,04-30-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,J0351,J0351-SET-L,Set,L,B09CSSQY4F,Shipped,1,INR,771.0,MUMBAI,MAHARASHTRA,400053.0,IN,"Amazon PLCC Free-Financing Universal Merchant AAT-WNKTBO3K27EJC,Amazon PLCC Free-Financing Universal Merchant AAT-QX3UCCJESKPA2,Amazon PLCC Free-Financing Universal Merchant AAT-5QQ7BIYYQEDN2,Amazon PLCC Free-Financing Universal Merchant AAT-DSJ2QRXXWXVMQ,Amazon PLCC Free-Financing Universal Merchant AAT-CXJHMC2YJUK76,Amazon PLCC Free-Financing Universal Merchant AAT-SL3Y2YRMAUNFC,Amazon PLCC Free-Financing Universal Merchant AAT-CC4FAVTYR4X7C,Amazon PLCC Free-Financing Universal Merchant AAT-XXRCW6NZEPZI4,Amazon PLCC Free-Financing Universal Merchant AAT-EOKPWFWYW7Y6I,Amazon PLCC Free-Financing Universal Merchant AAT-ZYL5UPUNW6T62,Amazon PLCC Free-Financing Universal Merchant AAT-ETXQ3XXWMRXBG,Amazon PLCC Free-Financing Universal Merchant AAT-7X3XCTYG64VBE,Amazon PLCC Free-Financing Universal Merchant AAT-7CHGD3WTS3MHM,Amazon PLCC Free-Financing Universal Merchant AAT-26ZDKNME27X42,Amazon PLCC Free-Financing Universal Merchant AAT-4ZF5KN6E4LJK4,Amazon PLCC Free-Financing Universal Merchant AAT-7RCXIKUAX7DDY,Amazon PLCC Free-Financing Universal Merchant AAT-TNYBHEAO7HOHO,Amazon PLCC Free-Financing Universal Merchant AAT-BRSZZ45H6MHAO,Amazon PLCC Free-Financing Universal Merchant AAT-MKLXOOZWQL7GO,Amazon PLCC Free-Financing Universal Merchant AAT-CB7UNXEXGIJTC,Amazon PLCC Free-Financing Universal Merchant #MP-gzasho-1593152694811,Amazon PLCC Free-Financing Universal Merchant AAT-WLBA4GZ52EAH4,Amazon PLCC Free-Financing Universal Merchant AAT-QMFZ3M7T5NPDS,Amazon PLCC Free-Financing Universal Merchant #MP-pmilan-1601980554292",False,Easy Ship,
+15,403-4965581-9520319,04-30-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,PJNE3368,PJNE3368-KR-6XL,kurta,6XL,B09PY99SVJ,Shipped,1,INR,544.0,GUNTAKAL,ANDHRA PRADESH,515801.0,IN,"Amazon PLCC Free-Financing Universal Merchant AAT-WNKTBO3K27EJC,Amazon PLCC Free-Financing Universal Merchant AAT-QX3UCCJESKPA2,Amazon PLCC Free-Financing Universal Merchant AAT-5QQ7BIYYQEDN2,Amazon PLCC Free-Financing Universal Merchant AAT-DSJ2QRXXWXVMQ,Amazon PLCC Free-Financing Universal Merchant AAT-CXJHMC2YJUK76,Amazon PLCC Free-Financing Universal Merchant AAT-SL3Y2YRMAUNFC,Amazon PLCC Free-Financing Universal Merchant AAT-CC4FAVTYR4X7C,Amazon PLCC Free-Financing Universal Merchant AAT-XXRCW6NZEPZI4,Amazon PLCC Free-Financing Universal Merchant AAT-EOKPWFWYW7Y6I,Amazon PLCC Free-Financing Universal Merchant AAT-ZYL5UPUNW6T62,Amazon PLCC Free-Financing Universal Merchant AAT-ETXQ3XXWMRXBG,Amazon PLCC Free-Financing Universal Merchant AAT-7X3XCTYG64VBE,Amazon PLCC Free-Financing Universal Merchant AAT-7CHGD3WTS3MHM,Amazon PLCC Free-Financing Universal Merchant AAT-26ZDKNME27X42,Amazon PLCC Free-Financing Universal Merchant AAT-4ZF5KN6E4LJK4,Amazon PLCC Free-Financing Universal Merchant AAT-7RCXIKUAX7DDY,Amazon PLCC Free-Financing Universal Merchant AAT-BRSZZ45H6MHAO,Amazon PLCC Free-Financing Universal Merchant AAT-MKLXOOZWQL7GO,Amazon PLCC Free-Financing Universal Merchant AAT-CB7UNXEXGIJTC,Amazon PLCC Free-Financing Universal Merchant #MP-gzasho-1593152694811,Amazon PLCC Free-Financing Universal Merchant AAT-WLBA4GZ52EAH4",False,Easy Ship,
+16,406-9379318-6555504,04-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE3721,JNE3721-KR-XXL,kurta,XXL,B099FCT65D,Shipped,1,INR,329.0,JAIPUR,RAJASTHAN,302020.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,False,,
+17,405-9013803-8009918,04-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE3405,JNE3405-KR-XL,kurta,XL,B081WT6GG7,Shipped,1,INR,399.0,NEW DELHI,DELHI,110074.0,IN,,False,,
+18,402-4030358-5835511,04-30-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,JNE3697,JNE3697-KR-XXL,kurta,XXL,B098133PV5,Shipped,1,INR,458.0,Gurgaon,HARYANA,122004.0,IN,"Amazon PLCC Free-Financing Universal Merchant AAT-WNKTBO3K27EJC,Amazon PLCC Free-Financing Universal Merchant AAT-QX3UCCJESKPA2,Amazon PLCC Free-Financing Universal Merchant AAT-5QQ7BIYYQEDN2,Amazon PLCC Free-Financing Universal Merchant AAT-DSJ2QRXXWXVMQ,Amazon PLCC Free-Financing Universal Merchant AAT-CXJHMC2YJUK76,Amazon PLCC Free-Financing Universal Merchant AAT-SL3Y2YRMAUNFC,Amazon PLCC Free-Financing Universal Merchant AAT-CC4FAVTYR4X7C,Amazon PLCC Free-Financing Universal Merchant AAT-XXRCW6NZEPZI4,Amazon PLCC Free-Financing Universal Merchant AAT-EOKPWFWYW7Y6I,Amazon PLCC Free-Financing Universal Merchant AAT-ZYL5UPUNW6T62,Amazon PLCC Free-Financing Universal Merchant AAT-ETXQ3XXWMRXBG,Amazon PLCC Free-Financing Universal Merchant AAT-7X3XCTYG64VBE,Amazon PLCC Free-Financing Universal Merchant AAT-7CHGD3WTS3MHM,Amazon PLCC Free-Financing Universal Merchant AAT-26ZDKNME27X42,Amazon PLCC Free-Financing Universal Merchant AAT-4ZF5KN6E4LJK4,Amazon PLCC Free-Financing Universal Merchant AAT-7RCXIKUAX7DDY,Amazon PLCC Free-Financing Universal Merchant AAT-BRSZZ45H6MHAO,Amazon PLCC Free-Financing Universal Merchant AAT-MKLXOOZWQL7GO,Amazon PLCC Free-Financing Universal Merchant AAT-CB7UNXEXGIJTC,Amazon PLCC Free-Financing Universal Merchant #MP-gzasho-1593152694811,Amazon PLCC Free-Financing Universal Merchant AAT-WLBA4GZ52EAH4,Amazon PLCC Free-Financing Universal Merchant #MP-pmilan-1601980554292",False,Easy Ship,
+19,405-5957858-1051546,04-30-22,Shipped,Amazon,Amazon.in,Expedited,SET254,SET254-KR-NP-XS,Set,XS,B0983DDPL6,Shipped,1,INR,886.0,BENGALURU,KARNATAKA,560017.0,IN,,False,,
+20,405-0607769-0716360,04-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE3795,JNE3795-KR-XXXL,kurta,3XL,B09HMXJVFS,Shipped,1,INR,517.0,TIRUCHIRAPPALLI,TAMIL NADU,620018.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,False,,
+21,404-8494550-5860325,04-30-22,Shipped,Amazon,Amazon.in,Expedited,SET345,SET345-KR-NP-M,Set,M,B09KXV4BN8,Shipped,1,INR,666.0,BENGALURU,KARNATAKA,560040.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,False,,
+22,171-1305077-2813934,04-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE3373,JNE3373-KR-L,kurta,L,B082W7GVH7,Shipped,1,INR,376.0,HYDERABAD,TELANGANA,500072.0,IN,,False,,
+23,404-6019946-2909948,04-30-22,Cancelled,Merchant,Amazon.in,Standard,SET291,SET291-KR-PP-M,Set,M,B099NK55YG,,0,INR,570.48,pune,MAHARASHTRA,411044.0,IN,,False,Easy Ship,
+24,402-3384087-4005164,04-30-22,Shipped,Amazon,Amazon.in,Expedited,MEN5002,MEN5002-KR-L,kurta,L,B08YYYDN9R,Shipped,1,INR,499.0,TEZPUR,ASSAM,784001.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,False,,
+25,405-8191138-5176316,04-30-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,NW030,NW030-TP-PJ-XS,Set,XS,B09G2RQSRZ,Shipped,1,INR,582.0,RANCHI,JHARKHAND,834002.0,IN,"Amazon PLCC Free-Financing Universal Merchant AAT-WNKTBO3K27EJC,Amazon PLCC Free-Financing Universal Merchant AAT-QX3UCCJESKPA2,Amazon PLCC Free-Financing Universal Merchant AAT-5QQ7BIYYQEDN2,Amazon PLCC Free-Financing Universal Merchant AAT-DSJ2QRXXWXVMQ,Amazon PLCC Free-Financing Universal Merchant AAT-CXJHMC2YJUK76,Amazon PLCC Free-Financing Universal Merchant AAT-SL3Y2YRMAUNFC,Amazon PLCC Free-Financing Universal Merchant AAT-CC4FAVTYR4X7C,Amazon PLCC Free-Financing Universal Merchant AAT-XXRCW6NZEPZI4,Amazon PLCC Free-Financing Universal Merchant AAT-WSJLDN3X7KEMO,Amazon PLCC Free-Financing Universal Merchant AAT-VL6FGQVGQVXUS,Amazon PLCC Free-Financing Universal Merchant AAT-EOKPWFWYW7Y6I,Amazon PLCC Free-Financing Universal Merchant AAT-ZYL5UPUNW6T62,Amazon PLCC Free-Financing Universal Merchant AAT-XVPICCHRWDCAI,Amazon PLCC Free-Financing Universal Merchant AAT-ETXQ3XXWMRXBG,Amazon PLCC Free-Financing Universal Merchant AAT-7X3XCTYG64VBE,Amazon PLCC Free-Financing Universal Merchant AAT-7CHGD3WTS3MHM,Amazon PLCC Free-Financing Universal Merchant AAT-26ZDKNME27X42,Amazon PLCC Free-Financing Universal Merchant AAT-4ZF5KN6E4LJK4,Amazon PLCC Free-Financing Universal Merchant AAT-7RCXIKUAX7DDY,Amazon PLCC Free-Financing Universal Merchant AAT-BRSZZ45H6MHAO,Amazon PLCC Free-Financing Universal Merchant AAT-MKLXOOZWQL7GO,Amazon PLCC Free-Financing Universal Merchant AAT-CB7UNXEXGIJTC,Amazon PLCC Free-Financing Universal Merchant #MP-gzasho-1593152694811,Amazon PLCC Free-Financing Universal Merchant AAT-WLBA4GZ52EAH4",False,Easy Ship,
+26,403-9230474-9657916,04-30-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,JNE3415,JNE3415-KR-XXXL,kurta,3XL,B082W8JXJ9,Shipped,1,INR,299.0,BILASPUR,CHHATTISGARH,495001.0,IN,"Amazon PLCC Free-Financing Universal Merchant AAT-WNKTBO3K27EJC,Amazon PLCC Free-Financing Universal Merchant AAT-QX3UCCJESKPA2,Amazon PLCC Free-Financing Universal Merchant AAT-5QQ7BIYYQEDN2,Amazon PLCC Free-Financing Universal Merchant AAT-DSJ2QRXXWXVMQ,Amazon PLCC Free-Financing Universal Merchant AAT-CXJHMC2YJUK76,Amazon PLCC Free-Financing Universal Merchant AAT-CC4FAVTYR4X7C,Amazon PLCC Free-Financing Universal Merchant AAT-XXRCW6NZEPZI4,Amazon PLCC Free-Financing Universal Merchant AAT-EOKPWFWYW7Y6I,Amazon PLCC Free-Financing Universal Merchant AAT-ETXQ3XXWMRXBG,Amazon PLCC Free-Financing Universal Merchant AAT-7X3XCTYG64VBE,Amazon PLCC Free-Financing Universal Merchant AAT-7CHGD3WTS3MHM,Amazon PLCC Free-Financing Universal Merchant AAT-26ZDKNME27X42,Amazon PLCC Free-Financing Universal Merchant AAT-4ZF5KN6E4LJK4,Amazon PLCC Free-Financing Universal Merchant AAT-7RCXIKUAX7DDY,Amazon PLCC Free-Financing Universal Merchant AAT-BRSZZ45H6MHAO,Amazon PLCC Free-Financing Universal Merchant AAT-MKLXOOZWQL7GO,Amazon PLCC Free-Financing Universal Merchant AAT-CB7UNXEXGIJTC,Amazon PLCC Free-Financing Universal Merchant #MP-gzasho-1593152694811,Amazon PLCC Free-Financing Universal Merchant AAT-WLBA4GZ52EAH4",False,Easy Ship,
+27,408-3484251-6901959,04-30-22,Shipped,Amazon,Amazon.in,Expedited,PJNE2199,PJNE2199-KR-N-4XL,kurta,4XL,B09LD2W9XL,Shipped,1,INR,459.0,PUNE,MAHARASHTRA,411052.0,IN,,False,,
+28,405-7755803-4729935,04-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE3567,JNE3567-KR-M,kurta,M,B08KRXV1QR,Shipped,1,INR,399.0,BENGALURU,KARNATAKA,560037.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,False,,
+29,404-5933402-8801952,04-30-22,Cancelled,Merchant,Amazon.in,Standard,JNE2132,JNE2132-KR-398-XXXL,kurta,3XL,B07JG3CND8,,0,,,GUWAHATI,ASSAM,781003.0,IN,,False,Easy Ship,
+30,171-9040274-9291563,04-30-22,Shipped,Amazon,Amazon.in,Expedited,J0341,J0341-DR-S,Western Dress,S,B099NR7612,Shipped,1,INR,791.0,THIRUVARUR,TAMIL NADU,613704.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,False,,
+31,403-7056319-0979561,04-30-22,Shipped,Amazon,Amazon.in,Expedited,MEN5009,MEN5009-KR-XL,kurta,XL,B08YYTCPYX,Shipped,1,INR,499.0,LUCKNOW,UTTAR PRADESH,226010.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,False,,
+32,404-9632124-1107550,04-30-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,J0011,J0011-LCD-M,Set,M,B08B3YNJG5,Shipped,1,INR,1233.0,VISAKHAPATNAM,ANDHRA PRADESH,530016.0,IN,"Amazon PLCC Free-Financing Universal Merchant AAT-WNKTBO3K27EJC,Amazon PLCC Free-Financing Universal Merchant AAT-QX3UCCJESKPA2,Amazon PLCC Free-Financing Universal Merchant AAT-5QQ7BIYYQEDN2,Amazon PLCC Free-Financing Universal Merchant AAT-DSJ2QRXXWXVMQ,Amazon PLCC Free-Financing Universal Merchant AAT-CXJHMC2YJUK76,Amazon PLCC Free-Financing Universal Merchant AAT-SL3Y2YRMAUNFC,Amazon PLCC Free-Financing Universal Merchant AAT-CC4FAVTYR4X7C,Amazon PLCC Free-Financing Universal Merchant AAT-XXRCW6NZEPZI4,Amazon PLCC Free-Financing Universal Merchant AAT-WSJLDN3X7KEMO,Amazon PLCC Free-Financing Universal Merchant AAT-VL6FGQVGQVXUS,Amazon PLCC Free-Financing Universal Merchant AAT-EOKPWFWYW7Y6I,Amazon PLCC Free-Financing Universal Merchant AAT-ZYL5UPUNW6T62,Amazon PLCC Free-Financing Universal Merchant AAT-XVPICCHRWDCAI,Amazon PLCC Free-Financing Universal Merchant AAT-ETXQ3XXWMRXBG,Amazon PLCC Free-Financing Universal Merchant AAT-7X3XCTYG64VBE,Amazon PLCC Free-Financing Universal Merchant AAT-7CHGD3WTS3MHM,Amazon PLCC Free-Financing Universal Merchant AAT-26ZDKNME27X42,Amazon PLCC Free-Financing Universal Merchant AAT-4ZF5KN6E4LJK4,Amazon PLCC Free-Financing Universal Merchant AAT-7RCXIKUAX7DDY,Amazon PLCC Free-Financing Universal Merchant AAT-BRSZZ45H6MHAO,Amazon PLCC Free-Financing Universal Merchant AAT-MKLXOOZWQL7GO,Amazon PLCC Free-Financing Universal Merchant AAT-CB7UNXEXGIJTC,Amazon PLCC Free-Financing Universal Merchant #MP-gzasho-1593152694811,Amazon PLCC Free-Financing Universal Merchant AAT-WLBA4GZ52EAH4",False,Easy Ship,
+33,402-1465437-0579556,04-30-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,JNE3766,JNE3766-KR-M,kurta,M,B09K3XR43V,Shipped,1,INR,517.0,JEYPUR,ODISHA,764001.0,IN,"Amazon PLCC Free-Financing Universal Merchant AAT-WNKTBO3K27EJC,Amazon PLCC Free-Financing Universal Merchant AAT-QX3UCCJESKPA2,Amazon PLCC Free-Financing Universal Merchant AAT-5QQ7BIYYQEDN2,Amazon PLCC Free-Financing Universal Merchant AAT-DSJ2QRXXWXVMQ,Amazon PLCC Free-Financing Universal Merchant AAT-CXJHMC2YJUK76,Amazon PLCC Free-Financing Universal Merchant AAT-CC4FAVTYR4X7C,Amazon PLCC Free-Financing Universal Merchant AAT-XXRCW6NZEPZI4,Amazon PLCC Free-Financing Universal Merchant AAT-EOKPWFWYW7Y6I,Amazon PLCC Free-Financing Universal Merchant AAT-ZYL5UPUNW6T62,Amazon PLCC Free-Financing Universal Merchant AAT-ETXQ3XXWMRXBG,Amazon PLCC Free-Financing Universal Merchant AAT-7X3XCTYG64VBE,Amazon PLCC Free-Financing Universal Merchant AAT-7CHGD3WTS3MHM,Amazon PLCC Free-Financing Universal Merchant AAT-26ZDKNME27X42,Amazon PLCC Free-Financing Universal Merchant AAT-4ZF5KN6E4LJK4,Amazon PLCC Free-Financing Universal Merchant AAT-7RCXIKUAX7DDY,Amazon PLCC Free-Financing Universal Merchant AAT-BRSZZ45H6MHAO,Amazon PLCC Free-Financing Universal Merchant AAT-MKLXOOZWQL7GO,Amazon PLCC Free-Financing Universal Merchant AAT-CB7UNXEXGIJTC,Amazon PLCC Free-Financing Universal Merchant #MP-gzasho-1593152694811,Amazon PLCC Free-Financing Universal Merchant AAT-WLBA4GZ52EAH4",False,Easy Ship,
+34,404-7774085-3780319,04-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE3373,JNE3373-KR-XL,kurta,XL,B082W8BXW1,Shipped,1,INR,376.0,HYDERABAD,TELANGANA,500028.0,IN,,False,,
+35,402-2764952-1492318,04-30-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,MEN5001,MEN5001-KR-XL,kurta,XL,B08YYRH2Q6,Shipped,1,INR,499.0,LUCKNOW,UTTAR PRADESH,226016.0,IN,"Amazon PLCC Free-Financing Universal Merchant AAT-WNKTBO3K27EJC,Amazon PLCC Free-Financing Universal Merchant AAT-QX3UCCJESKPA2,Amazon PLCC Free-Financing Universal Merchant AAT-5QQ7BIYYQEDN2,Amazon PLCC Free-Financing Universal Merchant AAT-DSJ2QRXXWXVMQ,Amazon PLCC Free-Financing Universal Merchant AAT-CXJHMC2YJUK76,Amazon PLCC Free-Financing Universal Merchant AAT-SL3Y2YRMAUNFC,Amazon PLCC Free-Financing Universal Merchant AAT-CC4FAVTYR4X7C,Amazon PLCC Free-Financing Universal Merchant AAT-XXRCW6NZEPZI4,Amazon PLCC Free-Financing Universal Merchant AAT-EOKPWFWYW7Y6I,Amazon PLCC Free-Financing Universal Merchant AAT-ZYL5UPUNW6T62,Amazon PLCC Free-Financing Universal Merchant AAT-ETXQ3XXWMRXBG,Amazon PLCC Free-Financing Universal Merchant AAT-7X3XCTYG64VBE,Amazon PLCC Free-Financing Universal Merchant AAT-7CHGD3WTS3MHM,Amazon PLCC Free-Financing Universal Merchant AAT-26ZDKNME27X42,Amazon PLCC Free-Financing Universal Merchant AAT-4ZF5KN6E4LJK4,Amazon PLCC Free-Financing Universal Merchant AAT-7RCXIKUAX7DDY,Amazon PLCC Free-Financing Universal Merchant AAT-TNYBHEAO7HOHO,Amazon PLCC Free-Financing Universal Merchant AAT-BRSZZ45H6MHAO,Amazon PLCC Free-Financing Universal Merchant AAT-MKLXOOZWQL7GO,Amazon PLCC Free-Financing Universal Merchant AAT-CB7UNXEXGIJTC,Amazon PLCC Free-Financing Universal Merchant #MP-gzasho-1593152694811,Amazon PLCC Free-Financing Universal Merchant AAT-WLBA4GZ52EAH4,Amazon PLCC Free-Financing Universal Merchant AAT-QMFZ3M7T5NPDS,Amazon PLCC Free-Financing Universal Merchant #MP-pmilan-1601980554292",False,Easy Ship,
+36,406-0272200-7784379,04-30-22,Shipped,Amazon,Amazon.in,Expedited,SET345,SET345-KR-NP-L,Set,L,B09KXT4VG7,Shipped,1,INR,666.0,CHENNAI,TAMIL NADU,600033.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,False,,
+37,403-4367956-2849158,04-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE3787,JNE3787-KR-S,kurta,S,B09RKBXM5B,Shipped,1,INR,487.0,NEW DELHI,DELHI,110092.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,False,,
+38,403-4367956-2849158,04-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE3543,JNE3543-KR-S,kurta,S,B08HHJP41L,Shipped,1,INR,368.0,NEW DELHI,DELHI,110092.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,False,,
+39,403-4242957-8599555,04-30-22,Shipped,Amazon,Amazon.in,Expedited,JNE3405,JNE3405-KR-L,kurta,L,B081WSCKPQ,Shipped,1,INR,399.0,THIRUVANANTHAPURAM,KERALA,695011.0,IN,,False,,
+40,408-7165704-5643524,04-30-22,Shipped,Amazon,Amazon.in,Expedited,J0211,J0211-DR-XXL,Ethnic Dress,XXL,B09831VWD9,Shipped,1,INR,699.0,GREATER NOIDA,UTTAR PRADESH,201306.0,IN,IN Core Free Shipping 2015/04/08 23-48-5-108,False,,
+
+
+
+DATA Cloud warehouse compersion chart:
+index,Shiprocket,Unnamed: 1,INCREFF
+0,Heads,Price (Per Unit),Price (Per Unit)
+1,Inbound (Fresh Stock and RTO),₹4.00,4
+2,Outbound,₹7.00,11
+3,Storage Fee/Cft,₹25.00,Rs 0.15/- Per Day
+4,Customer Return with Detailed QC,₹6.00,15.5
+5,(A) SCOPE OF WORK and STANDARD OPERATING PROCEDURE,,
+6,Inward,Unloading,• Boxes counted and weighed. Data captured in the Maven.
+7,,Validation,• GRN will be initiated against a valid PO document and Invoice will be captured
+8,,QC,• No QC to be done (Outer Visual Inspection and Color matching)
+9,,GRN,"•  Scanning (Goods will have scannable EAN code or unique barcodes) and counting of all inventory, verification of all data by supervisor and completion of GRN. Detailed report is made available"
+10,,Putaway,• Mobile HHT based Putaway to accurately record warehouse location for every item/roll
+11,,,
+12,Outward,Order receipt,•  Orders will be received through integration directly into Maven or directly to Maven by the client
+13,,Picking,• System driven optimised picking with real-time inventory correction by marking Not Found and alternate locations suggested
+14,,Packing,• System driven packing by putting products into Polybags to maintain accuracy and generate pack slips
+15,,Invoicing,• Print the invoice as generated through integration or provided by the client 
+16,,Shipping,• Shipping labels and AWB via integration with vendors and generation of digital manifests to ensure accuracy
+17,,POD,• Digital PODs from vendors if available via integration
+18,,,
+19,Returns,Inward,•  RTO and Customer Returns are received and Inwarded in the warehouse Outer package visible inspection is done before inwarding 
+20,,,
+21,Inventory management,Cycle count,•  Daily cycle count to maintain accuracy and deliver SLAs without disrupting regular operations. Complete Inventory to be covered in 3 months.
+22,,,•  Any quantity not found during Cycle Count shall be parked in a non-serviceable location in Maven
+23,,Audit,• Annual wall to wall Audit including global count driven by system to ensure speed while eliminating human error
+24,(B) MISCELLANEOUS,,
+25,,"i.            Product, Vendor and Customer Master Data is created in Maven before the rollout according to the data provided by the client",
+26,,ii.             Above procedure considers common B2C or D2C businesses,
+27,,iii.             Storage for Packing material is charged separately if provided by the client. The scrap generated from the goods is for the warehouse.,
+28,© EXCLUSIONS,,
+29,,i.                     tax registrations for the Client and any structural changes to comply with tax requirements,
+30,,ii.                    coordinate with vendors of the client,
+31,,iii.                  provision of packaging material and consumables,
+32,,iv.                  any licensing required specifically for the product,
+33,,v.                    coordinate with transportation or delivery service providers of client,
+34,,vi.                  refurbishment of goods,
+35,(D) KEY PERFORMANCE INDICATORS AND COMMERCIALS,,
+36,Performance Indicators,,
+37,Performance Measure,Measurement,Target
+38,Monthly Fill Rate,•  Measurement is monthly,>99.8%
+39,,•  Calculated as: Total quantity available in Maven & dispatched/Total quantity ordered,
+40,Daily Processing Capacity,•  GRN throughput is subject to a cut-off of 11:00am,
+41,,•  Outbound throughput is subject to a cut-off of 2:00pm,
+42,,•  Returns throughput is subject to a cut-off of 10:00am,
+43,Customer Complaints,•  Measurement is monthly,<0.2%
+44,,"•  Total affected quantity (Short reported, excess reported and mismatch reported)/ Total quantity ordered during the month",
+45,Allowed Shrinkage,•  Measured at the time of full audit carried out against Maven inventory by Client or any third party appointed by the Client,<0.2%
+46,,•  Final Shrinkage value calculated at Client’s holding cost of the inventory (net of any excess inventory found) Net value of transacted goods (excess – shortage) during the audit period measured at holding cost,1 Annual Audit is included in the commercials
+47,Penalty,•  Penalty for fillrate,2x of the service fee per affected qty
+48,,•  Penalty cap for service lapse,10% of monthly billing; not applicable if there are outstanding payments; no cap on shrinkage
+49,Others,•  Days of Operations,7 days per week
+
+DATA Expense IIGF:
+index,Recived Amount,Unnamed: 1,Expance,Unnamed: 3
+0,Particular,Amount,Particular,Amount
+1,06-19-22,1000,Large Bag,380
+2,06-20-22,1500,"Stationary(Soft Pin, Paper pin for Dupatta, Fevikwick)",170
+3,06-22-22,500,OLA,839
+4,06-23-22,2000,Auto Rent,520
+5,,,TT Fine,500
+6,,,Bhushan Hotel,2506
+7,,,Food,1290
+8,,,Expomart Labour Charge,200
+9,,,Choclate,400
+10,,,Bhushan Cash,800
+11,,,Delhi Hotel Rest Room,120
+12,,,Water Bottel,70
+13,,,Cooli,300
+14,,,,8095
+15,,,Pending Amount,-3095
+16,Total,5000,,5000
+
+
+DATA International sale report:
+index,DATE,Months,CUSTOMER,Style,SKU,Size,PCS,RATE,GROSS AMT
+0,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5004,MEN5004-KR-L,L,1.00,616.56,617.00
+1,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5004,MEN5004-KR-XL,XL,1.00,616.56,617.00
+2,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5004,MEN5004-KR-XXL,XXL,1.00,616.56,617.00
+3,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5009,MEN5009-KR-L,L,1.00,616.56,617.00
+4,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5011,MEN5011-KR-L,L,1.00,616.56,617.00
+5,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5025,MEN5025-KR-L,L,1.00,649.03,649.00
+6,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5015,MEN5015-KR-XL,XL,1.00,616.56,617.00
+7,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5022,MEN5022-KR-XXL,XXL,1.00,649.03,649.00
+8,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5014,MEN5014-KR-S,S,1.00,649.03,649.00
+9,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5013,MEN5013-KR-S,S,1.00,649.03,649.00
+10,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5013,MEN5013-KR-XXL,XXL,1.00,649.03,649.00
+11,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5003,MEN5003-KR-L,L,1.00,616.56,617.00
+12,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5003,MEN5003-KR-XXL,XXL,1.00,616.56,617.00
+13,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5028,MEN5028-KR-L,L,1.00,649.03,649.00
+14,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5028,MEN5028-KR-XXL,XXL,1.00,649.03,649.00
+15,06-05-21,Jun-21,REVATHY LOGANATHAN,MEN5006,MEN5006-KR-XL,XL,1.00,649.03,649.00
+16,06-05-21,Jun-21,REVATHY LOGANATHAN,BL097,BL097-M,M,1.00,324.35,324.00
+17,06-05-21,Jun-21,REVATHY LOGANATHAN,BL104,BL104-M,M,1.00,421.85,422.00
+18,06-05-21,Jun-21,REVATHY LOGANATHAN,BL104,BL104-XL,XL,1.00,421.85,422.00
+19,06-05-21,Jun-21,REVATHY LOGANATHAN,BL103,BL103-S,S,1.00,389.35,389.00
+20,06-08-21,Jun-21,FARIA ESSOPP,J0001,J0001-DR-L,L,1.00,584.35,584.00
+21,06-08-21,Jun-21,FARIA ESSOPP,JNE3660,JNE3660-TP-L,L,1.00,421.85,422.00
+22,06-08-21,Jun-21,FARIA ESSOPP,JNE3647,JNE3647-TP-XL,XL,1.00,421.85,422.00
+23,06-08-21,Jun-21,FARIA ESSOPP,J0116,J0116-TP-XL,XL,1.00,421.85,422.00
+24,06-08-21,Jun-21,FARIA ESSOPP,J0165,J0165-TP-L,L,1.00,454.35,454.00
+25,06-08-21,Jun-21,FARIA ESSOPP,JNE3656,JNE3656-TP-XL,XL,1.00,454.35,454.00
+26,06-08-21,Jun-21,FARIA ESSOPP,JNE3673,JNE3673-TU-XL,XL,1.00,519.35,519.00
+27,06-08-21,Jun-21,FARIA ESSOPP,JNE3649,JNE3649-TP-L,L,1.00,486.85,487.00
+28,06-08-21,Jun-21,FARIA ESSOPP,JNE3653,JNE3653-TP-L,L,1.00,454.35,454.00
+29,06-08-21,Jun-21,FARIA ESSOPP,JNE3651,JNE3651-TP-L,L,1.00,454.35,454.00
+30,06-08-21,Jun-21,FARIA ESSOPP,JNE3712,JNE3712-TP-L,L,1.00,454.35,454.00
+31,06-08-21,Jun-21,FARIA ESSOPP,J0036,J0036-TP-XL,XL,1.00,531.25,531.00
+32,06-08-21,Jun-21,FARIA ESSOPP,JNE3658,JNE3658-TP-L,L,1.00,421.85,422.00
+33,06-08-21,Jun-21,FARIA ESSOPP,JNE3652,JNE3652-TP-XL,XL,1.00,421.85,422.00
+34,06-08-21,Jun-21,FARIA ESSOPP,JNE3643,JNE3643-TP-L,L,1.00,356.85,357.00
+35,06-08-21,Jun-21,FARIA ESSOPP,JNE3643,JNE3643-TP-XL,XL,1.00,356.85,357.00
+36,06-08-21,Jun-21,FARIA ESSOPP,JNE3672,JNE3672-TU-XL,XL,1.00,486.85,487.00
+37,06-08-21,Jun-21,FARIA ESSOPP,JNE3674,JNE3674-TU-XL,XL,1.00,486.85,487.00
+38,06-08-21,Jun-21,FARIA ESSOPP,JNE3670,JNE3670-TU-L,L,1.00,519.35,519.00
+39,06-08-21,Jun-21,FARIA ESSOPP,J0122,J0122-TP-L,L,1.00,421.85,422.00
+40,06-08-21,Jun-21,FARIA ESSOPP,J0119,J0119-TP-L,L,1.00,421.85,422.00
+
+
+DATA May 2022 (Other similar data from 2021 available):
+index,Sku,Style Id,Catalog,Category,Weight,TP,MRP Old,Final MRP Old,Ajio MRP,Amazon MRP,Amazon FBA MRP,Flipkart MRP,Limeroad MRP,Myntra MRP,Paytm MRP,Snapdeal MRP
+0,Os206_3141_S,Os206_3141,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+1,Os206_3141_M,Os206_3141,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+2,Os206_3141_L,Os206_3141,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+3,Os206_3141_XL,Os206_3141,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+4,Os206_3141_2XL,Os206_3141,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+5,Os206_3141_3XL,Os206_3141,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+6,Os223_3142_S,Os223_3142,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+7,Os223_3142_M,Os223_3142,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+8,Os223_3142_L,Os223_3142,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+9,Os223_3142_XL,Os223_3142,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+10,Os223_3142_2XL,Os223_3142,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+11,Os223_3142_3XL,Os223_3142,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+12,Os212_3143_S,Os212_3143,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+13,Os212_3143_M,Os212_3143,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+14,Os212_3143_L,Os212_3143,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+15,Os212_3143_XL,Os212_3143,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+16,Os212_3143_2XL,Os212_3143,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+17,Os212_3143_3XL,Os212_3143,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+18,Os214_3144_S,Os214_3144,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+19,Os214_3144_M,Os214_3144,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+20,Os214_3144_L,Os214_3144,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+21,Os214_3144_XL,Os214_3144,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+22,Os214_3144_2XL,Os214_3144,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+23,Os214_3144_3XL,Os214_3144,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+24,Os207_3145_S,Os207_3145,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+25,Os207_3145_M,Os207_3145,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+26,Os207_3145_L,Os207_3145,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+27,Os207_3145_XL,Os207_3145,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+28,Os207_3145_2XL,Os207_3145,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+29,Os207_3145_3XL,Os207_3145,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+30,Os202_3146_S,Os202_3146,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+31,Os202_3146_M,Os202_3146,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+32,Os202_3146_L,Os202_3146,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+33,Os202_3146_XL,Os202_3146,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+34,Os202_3146_2XL,Os202_3146,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+35,Os202_3146_3XL,Os202_3146,Moments,Kurta,0.3,538,2178,2295,2295,2295,2295,2295,2295,2295,2295,2295
+36,Os181_5051_S,Os181_5051,Colors-8,Kurta,0.3,438,1778,1895,1895,1895,1895,1895,1895,1895,1895,1895
+37,Os181_5051_M,Os181_5051,Colors-8,Kurta,0.3,438,1778,1895,1895,1895,1895,1895,1895,1895,1895,1895
+38,Os181_5051_L,Os181_5051,Colors-8,Kurta,0.3,438,1778,1895,1895,1895,1895,1895,1895,1895,1895,1895
+39,Os181_5051_XL,Os181_5051,Colors-8,Kurta,0.3,438,1778,1895,1895,1895,1895,1895,1895,1895,1895,1895
+40,Os181_5051_2XL,Os181_5051,Colors-8,Kurta,0.3,438,1778,1895,1895,1895,1895,1895,1895,1895,1895,1895
+
+Data Sales Report:
+index,SKU Code,Design No.,Stock,Category,Size,Color
+0,AN201-RED-L,AN201,5.0,AN : LEGGINGS,L,Red
+1,AN201-RED-M,AN201,5.0,AN : LEGGINGS,M,Red
+2,AN201-RED-S,AN201,3.0,AN : LEGGINGS,S,Red
+3,AN201-RED-XL,AN201,6.0,AN : LEGGINGS,XL,Red
+4,AN201-RED-XXL,AN201,3.0,AN : LEGGINGS,XXL,Red
+5,AN202-ORANGE-L,AN202,11.0,AN : LEGGINGS,L,Orange
+6,AN202-ORANGE-M,AN202,3.0,AN : LEGGINGS,M,Orange
+7,AN202-ORANGE-S,AN202,16.0,AN : LEGGINGS,S,Orange
+8,AN202-ORANGE-XL,AN202,8.0,AN : LEGGINGS,XL,Orange
+9,AN202-ORANGE-XXL,AN202,14.0,AN : LEGGINGS,XXL,Orange
+10,AN203-MAROON-L,AN203,1.0,AN : LEGGINGS,L,Maroon
+11,AN203-MAROON-M,AN203,2.0,AN : LEGGINGS,M,Maroon
+12,AN203-MAROON-S,AN203,2.0,AN : LEGGINGS,S,Maroon
+13,AN203-MAROON-XL,AN203,2.0,AN : LEGGINGS,XL,Maroon
+14,AN203-MAROON-XXL,AN203,3.0,AN : LEGGINGS,XXL,Maroon
+15,AN204-PURPLE-L,AN204,10.0,AN : LEGGINGS,L,Purple
+16,AN204-PURPLE-M,AN204,4.0,AN : LEGGINGS,M,Purple
+17,AN204-PURPLE-S,AN204,6.0,AN : LEGGINGS,S,Purple
+18,AN204-PURPLE-XL,AN204,3.0,AN : LEGGINGS,XL,Purple
+19,AN204-PURPLE-XXL,AN204,5.0,AN : LEGGINGS,XXL,Purple
+20,AN205-YELLOW-L,AN205,9.0,AN : LEGGINGS,L,Yellow
+21,AN205-YELLOW-M,AN205,7.0,AN : LEGGINGS,M,Yellow
+22,AN205-YELLOW-S,AN205,6.0,AN : LEGGINGS,S,Yellow
+23,AN205-YELLOW-XL,AN205,7.0,AN : LEGGINGS,XL,Yellow
+24,AN205-YELLOW-XXL,AN205,13.0,AN : LEGGINGS,XXL,Yellow
+25,AN206-GREEN-L,AN206,10.0,AN : LEGGINGS,L,Green
+26,AN206-GREEN-M,AN206,13.0,AN : LEGGINGS,M,Green
+27,AN206-GREEN-S,AN206,13.0,AN : LEGGINGS,S,Green
+28,AN206-GREEN-XL,AN206,15.0,AN : LEGGINGS,XL,Green
+29,AN206-GREEN-XXL,AN206,13.0,AN : LEGGINGS,XXL,Green
+30,AN207-PINK-L,AN207,4.0,AN : LEGGINGS,L,Pink
+31,AN207-PINK-M,AN207,2.0,AN : LEGGINGS,M,Pink
+32,AN207-PINK-S,AN207,4.0,AN : LEGGINGS,S,Pink
+33,AN207-PINK-XL,AN207,1.0,AN : LEGGINGS,XL,Pink
+34,AN207-PINK-XXL,AN207,2.0,AN : LEGGINGS,XXL,Pink
+35,AN209-BIEGE-L,AN209,4.0,AN : LEGGINGS,L,Beige
+36,AN209-BIEGE-M,AN209,7.0,AN : LEGGINGS,M,Beige
+37,AN209-BIEGE-S,AN209,4.0,AN : LEGGINGS,S,Beige
+38,AN209-BIEGE-XL,AN209,3.0,AN : LEGGINGS,XL,Beige
+39,AN209-BIEGE-XXL,AN209,3.0,AN : LEGGINGS,XXL,Beige
+40,AN210-NAVY-L,AN210,5.0,AN : LEGGINGS,L,Navy Blue
